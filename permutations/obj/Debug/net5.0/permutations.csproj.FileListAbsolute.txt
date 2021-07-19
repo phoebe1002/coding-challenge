@@ -1,0 +1,15 @@
+/Users/phoebe/Desktop/Revature/coding-challenge/permutations/bin/Debug/net5.0/permutations.deps.json
+/Users/phoebe/Desktop/Revature/coding-challenge/permutations/bin/Debug/net5.0/permutations.runtimeconfig.json
+/Users/phoebe/Desktop/Revature/coding-challenge/permutations/bin/Debug/net5.0/permutations.runtimeconfig.dev.json
+/Users/phoebe/Desktop/Revature/coding-challenge/permutations/bin/Debug/net5.0/permutations.dll
+/Users/phoebe/Desktop/Revature/coding-challenge/permutations/bin/Debug/net5.0/ref/permutations.dll
+/Users/phoebe/Desktop/Revature/coding-challenge/permutations/bin/Debug/net5.0/permutations.pdb
+/Users/phoebe/Desktop/Revature/coding-challenge/permutations/obj/Debug/net5.0/permutations.csproj.AssemblyReference.cache
+/Users/phoebe/Desktop/Revature/coding-challenge/permutations/obj/Debug/net5.0/permutations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phoebe/Desktop/Revature/coding-challenge/permutations/obj/Debug/net5.0/permutations.AssemblyInfoInputs.cache
+/Users/phoebe/Desktop/Revature/coding-challenge/permutations/obj/Debug/net5.0/permutations.AssemblyInfo.cs
+/Users/phoebe/Desktop/Revature/coding-challenge/permutations/obj/Debug/net5.0/permutations.csproj.CoreCompileInputs.cache
+/Users/phoebe/Desktop/Revature/coding-challenge/permutations/obj/Debug/net5.0/permutations.dll
+/Users/phoebe/Desktop/Revature/coding-challenge/permutations/obj/Debug/net5.0/ref/permutations.dll
+/Users/phoebe/Desktop/Revature/coding-challenge/permutations/obj/Debug/net5.0/permutations.pdb
+/Users/phoebe/Desktop/Revature/coding-challenge/permutations/obj/Debug/net5.0/permutations.genruntimeconfig.cache
